@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# App runtime artifacts (uploaded resumes / generated PDFs)
+temp_profile.pdf
+ATS_Resume_*.pdf
+*.pdf
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets / env
+.env
+*.env
