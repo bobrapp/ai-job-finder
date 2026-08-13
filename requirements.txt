@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+geopy
+reportlab
+playwright
+streamlit
